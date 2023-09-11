@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Muhammad Ahmad Shahid
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning some frameworks in javaScript
+- 💞️ I’m looking to collaborate on javascript and typescript projects
+- 📫 You can reach out me by leaving a message and i will try to answer you as soon as possible
