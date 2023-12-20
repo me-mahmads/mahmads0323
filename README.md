@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Ahmad Shahid
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning some frameworks in javaScript
-- 💞️ I’m looking to collaborate on javascript and typescript projects
-- 📫 You can reach out me by leaving a message and i will try to answer you as soon as possible
+- 👀 I’m interested in full stack development in web2.0 and web3.0
+- 🌱 I’m currently learning some frameworks in javaScript and solidity contract development
+- 💞️ I’m looking to collaborate on full-stack web2.0 and solidity contracts projects
+- 📫 You can reach out me by leaving a message and I will try to answer you as soon as possible
